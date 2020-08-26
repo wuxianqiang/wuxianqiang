@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 #### Languages and Tools:
 
-[![Qiang's github stats](https://github-readme-stats.vercel.app/api?username=wuxianqiang)](https://github.com/wuxianqiang/github-readme-stats)
+[![Qiang's github stats](https://github-readme-stats.vercel.app/api?username=wuxianqiang)](https://github.com/anuraghazra/github-readme-stats)
