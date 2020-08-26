@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 目前任职于滴滴网约车，有需要内推的可以发邮件至 2631640352@qq.com。
+
+
+#### Languages and Tools:
+
 [![Qiang's github stats](https://github-readme-stats.vercel.app/api?username=wuxianqiang)](https://github.com/wuxianqiang/github-readme-stats)
