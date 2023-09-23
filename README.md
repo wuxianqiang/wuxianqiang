@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 目前任职于滴滴网约车，有需要内推的可以发邮件至 2631640352@qq.com。
+🔭 目前任职于快手，有需要内推的可以发邮件至 2631640352@qq.com。
 
 
 #### Languages and Tools:
